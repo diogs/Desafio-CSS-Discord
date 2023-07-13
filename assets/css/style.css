@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-image: url(/assets/images/Background-428.png);
+    background-image: url(../images/Background-428.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -131,7 +131,7 @@ footer img{
 
 @media screen and (min-width: 1280px){
     header {
-        background-image: url(/assets/images/Background-1280.png);
+        background-image: url(../images/Background-1280.png);
         height: 100%;
         background-position: center;
         background-repeat: no-repeat;
